@@ -1,2 +1,2 @@
 # current-time
-Bare minimum hello world kind
+Bare minimum "Hello World" kind
